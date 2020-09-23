@@ -1,0 +1,2 @@
+package open_wechat
+
